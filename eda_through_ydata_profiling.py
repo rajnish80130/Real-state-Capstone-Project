@@ -23,4 +23,5 @@ profile.to_file("gurgaon_profile_report.html")
 # Download it
 files.download("gurgaon_profile_report.html")
 
+#y_data install
 !pip install -U ydata-profiling
